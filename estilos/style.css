@@ -32,7 +32,7 @@ section#login {
     overflow: hidden;
     background-color: white;
     width: 250px;
-    height: 515px;
+    height: 535px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.445);
 
@@ -92,7 +92,7 @@ div.campo > input {
     border: 0px;
     border-radius: 8px;
     padding: 4px;
-    transform: translateY(-12px);
+    transform: translateY(-13px);
 }
 
 div.campo > input:focus-within {
