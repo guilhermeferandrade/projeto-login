@@ -37,7 +37,7 @@ section#login {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.445);
 
     transform: translate(-50%, -50%);
-    transition: width 0.3s, heigth 0.3s;
+    transition: width 0.3s, height 0.3s;
     transition-timing-function: ease;
 }
 
@@ -92,7 +92,7 @@ div.campo > input {
     border: 0px;
     border-radius: 8px;
     padding: 4px;
-    transform: translateY(-13px);
+    transform: translateY(-12px);
 }
 
 div.campo > input:focus-within {
